@@ -1,4 +1,4 @@
-// Initializes the `contacts` service on path `/contacts`
+// Initializes the `contacts` service on path `/contacts` example
 const { Contacts } = require('./contacts.class');
 const createModel = require('../../models/contacts.model');
 const hooks = require('./contacts.hooks');
