@@ -49,6 +49,7 @@
     "helmet": "^5.1.1",
     "mongodb-core": "^3.2.7",
     "mongoose": "^6.4.6",
+    "mongoose-type-email": "^1.1.2",
     "serve-favicon": "^2.5.0",
     "winston": "^3.8.1"
   },
